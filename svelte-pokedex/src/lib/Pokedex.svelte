@@ -1,5 +1,3 @@
-
-
 <script>
   import { onMount } from "svelte";
 
